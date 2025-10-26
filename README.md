@@ -158,7 +158,8 @@ After seeding, you can login with:
 ## Screenshots or Code Snippets
 
 ### Dashboard Overview
-![Dashboard](screenshot/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
+
 ### Inventory Management
 ![Inventory List](screenshots/Inventory.png)
 
