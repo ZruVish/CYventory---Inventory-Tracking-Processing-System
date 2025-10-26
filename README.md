@@ -164,7 +164,7 @@ After seeding, you can login with:
 ![Inventory List](screenshots/Inventory.png)
 
 ### Transaction Processing
-![New Transaction](screenshots/Transactions.png)
+![New Transaction](screenshots/Transaction.png)
 
 ### Login Screen
 ![Login](screenshots/Login.png)
