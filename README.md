@@ -103,7 +103,7 @@ CYventory is a Laravel-based inventory management system featuring a futuristic 
 ```
 
 11. **Access the application**
-    - URL: `http://localhost:8000`
+    - URL: `http://127.0.0.1:8000`
 
 ### Default Login Credentials
 
