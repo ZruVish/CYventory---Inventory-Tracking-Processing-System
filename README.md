@@ -158,7 +158,15 @@ After seeding, you can login with:
 ## Screenshots or Code Snippets
 
 ### Dashboard Overview
-![Dashboard](screenshot-dashboard.png)
+![Dashboard](screenshot/Dashboard.png)
+### Inventory Management
+![Inventory List](screenshots/Inventory.png)
+
+### Transaction Processing
+![New Transaction](screenshots/Transactions.png)
+
+### Login Screen
+![Login](screenshots/Login.png)
 
 ### Transaction Processing
 ```php
